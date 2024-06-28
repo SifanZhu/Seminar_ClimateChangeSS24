@@ -4,3 +4,4 @@ This repository is for Sifan Zhu and Kristina Kuznetsova's project for the Clima
 Dataset:
 https://www.kaggle.com/datasets/bouweceunen/climate-fever-dataset?resource=download
 
+Weekly plan: https://www.overleaf.com/read/vskstwkgxcqf#ef481e
