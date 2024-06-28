@@ -3,10 +3,10 @@ This repository is for Sifan Zhu and Kristina Kuznetsova's project for the Clima
 
 ## Dataset:
 
-Climate Fever Dataset
+Climate Fever Dataset:
 https://www.kaggle.com/datasets/bouweceunen/climate-fever-dataset?resource=download
 
-Dataset Card for climate_sentiment
+Dataset Card for climate_sentiment:
 https://huggingface.co/datasets/climatebert/climate_sentiment?row=0
 
 ## Weekly plan: 
