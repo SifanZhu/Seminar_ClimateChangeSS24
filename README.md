@@ -9,5 +9,9 @@ https://www.kaggle.com/datasets/bouweceunen/climate-fever-dataset?resource=downl
 Dataset Card for climate_sentiment:
 https://huggingface.co/datasets/climatebert/climate_sentiment?row=0
 
+
+## Fine-tuned Model and Tokenizer:
+https://drive.google.com/drive/folders/1UiGcAYyM5xB15QKXmxL0ZE53xBXSPo_g
+
 ## Weekly plan: 
 https://www.overleaf.com/read/vskstwkgxcqf#ef481e
