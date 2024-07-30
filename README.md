@@ -14,7 +14,7 @@ https://www.overleaf.com/1333578289txznxjtffjbw#61652b
 
 
 ## Fine-tuned Model and Tokenizer:
-https://drive.google.com/drive/folders/1UiGcAYyM5xB15QKXmxL0ZE53xBXSPo_g
+[https://drive.google.com/drive/folders/1UiGcAYyM5xB15QKXmxL0ZE53xBXSPo_g](https://colab.research.google.com/drive/1a3-Iscthq13Jv0PTU8Vz3cHV4Rpcb_sB#scrollTo=f5c7004d)
 
 ## Weekly plan: 
 https://www.overleaf.com/read/vskstwkgxcqf#ef481e
