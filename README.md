@@ -8,6 +8,10 @@ https://fever.ai/dataset/fever.html
 Climate Fever Dataset:
 https://www.kaggle.com/datasets/bouweceunen/climate-fever-dataset?resource=download
 
+## Model:
+DistilBERT:
+https://huggingface.co/docs/transformers/en/model_doc/distilbert
+
 
 ## Overleaf page
 https://www.overleaf.com/1333578289txznxjtffjbw#61652b
