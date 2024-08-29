@@ -2,12 +2,12 @@
 This repository is for Sifan Zhu and Kristina Kuznetsova's project for the Climate Change seminar in SS24.
 
 ## Dataset:
+Fever Dataset:
+https://fever.ai/dataset/fever.html
 
 Climate Fever Dataset:
 https://www.kaggle.com/datasets/bouweceunen/climate-fever-dataset?resource=download
 
-Dataset Card for climate_sentiment:
-https://huggingface.co/datasets/climatebert/climate_sentiment?row=0
 
 ## Overleaf page
 https://www.overleaf.com/1333578289txznxjtffjbw#61652b
